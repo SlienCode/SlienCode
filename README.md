@@ -1,6 +1,6 @@
 ## Hello, I am Nick ☁️
 
-A Greek Informatics student now studying at the Technical University of Munich for my Master's degree. I like to create games, optimize code and compose music. You can find my published work on my [itch.io page](https://sliencreation.itch.io/) and my [YouTube channel](https://www.youtube.com/@slien644).
+A Greek Informatics student now studying at the Technical University of Munich for my Master's degree. I like to create games, optimize code and compose music. You can find my published work on my [itch.io](https://sliencreation.itch.io/) page and my [YouTube](https://www.youtube.com/@slien644) channel.
 
 ## Open Source Contributions
 - Godot Engine: [<ins>#97335</ins>](https://github.com/godotengine/godot/pull/97335) Fixed a GUI-related bug. The pull request has been approved and merged in Godot 4.4.
